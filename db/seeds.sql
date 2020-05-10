@@ -1,7 +1,7 @@
 INSERT INTO burgers_db.burgers (burger_name, devoured)
 VALUES
-("Cheesburger", false),
-("Mushroom Burger", false),
-("Veggie Burger", false),
-("InNOut Burger", false),
-("Bacon Cheeseburger", false);
+("BigM Mac", false),
+("Chicke Fille", false),
+("Vegetarian Burger", false),
+("Soft and Juicy Burger", false),
+("Bacon burger", false);
