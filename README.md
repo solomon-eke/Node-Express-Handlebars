@@ -1,4 +1,4 @@
-# Node-Express-Handleba
+# Node-Express-Handlebars
 Github Page: https://github.com/solomon-eke/Node-Express-Handlebars </br>
 Live Demo: https://stormy-dusk-45541.herokuapp.com/
 
