@@ -1,6 +1,6 @@
 # Node-Express-Handlebars
 🍔 Burger Logger: Node, Express, Handlebars </br>
-Github Page: https://brittanymorrisdesign.github.io/Homework-13 </br>
+Github Page: https://github.com/solomon-eke/Node-Express-Handlebars </br>
 Live Demo: https://peaceful-ocean-40242.herokuapp.com/
 
 # Objective
