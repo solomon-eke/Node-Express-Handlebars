@@ -11,8 +11,3 @@ This application demonstrates the use of Node and MySQL to query and route data,
 * Node.js
 * Express.js
 * Handlebars.js
-
-# Dependencies
-* express-handlebars
-* express
-* mysql
