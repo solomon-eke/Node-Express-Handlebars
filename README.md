@@ -1,5 +1,4 @@
-# Node-Express-Handlebars
-🍔 Burger Logger: Node, Express, Handlebars </br>
+# Node-Express-Handleba
 Github Page: https://github.com/solomon-eke/Node-Express-Handlebars </br>
 Live Demo: https://stormy-dusk-45541.herokuapp.com/
 
